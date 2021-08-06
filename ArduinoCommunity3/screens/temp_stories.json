@@ -1,0 +1,20 @@
+[
+    {
+        "image":1,
+        "title": "Hand gesture controlled servo",
+        "author": "Aryan Kurkure",
+        "created_on": "24th July, 2021",
+        "description": "This is a amazing project wherein the arduino reads the hand gestures by sensors and works accordingly",
+        "story": "",
+        "moral": ""
+    },
+    {
+        "image":2,
+        "title": "Digital clock with ultimate graphics",
+        "author": "Ojjas Shinde",
+        "created_on": "19th June 2021",
+        "description": "The project is all about display , in this project I have added very awesome clock on a digital screen with really beautiful graphics",
+        "story":"",
+        "moral": ""
+    }
+]
